@@ -1,0 +1,27 @@
+You are a professional web developer. I want you to design and code a modern personal portfolio website using HTML, CSS, and JavaScript (or React / Next.js if I ask).
+Here’s my portfolio information:
+Name: shivakant shukla
+Tagline / Role: java developer
+About Me: software engineer
+Skills: , Java, Spring Boot, React, SQL, AWS
+Projects:XYZ
+Contact Info: ss68644@gmail.com
+✨ Design Instructions:
+Make it clean, minimal, and responsive.
+Include sections: Home, About, Skills, Projects, Contact.
+Use modern colors, smooth animations, and readable typography.
+Add hover effects on project cards and social icons.
+⚙️ Technical Instructions:
+Code should be well-structured and commented.
+Use a separate CSS file for styling.
+Include icons from Font Awesome.
+Ensure it’s mobile-friendly.
+🎨 Optional Add-ons (if I request later):
+Dark/Light theme toggle
+Downloadable resume button
+Contact form with email integration
+Animated skills progress bars
+Typewriter effect in hero section
+Once generated, if I say something like:
+👉 “Update my portfolio: change the color theme to blue and add a new project about an AI chatbot,”
+then update the existing portfolio accordingly — without rewriting it completely.
